@@ -1,0 +1,31 @@
+﻿  main.cpp
+D:\SCHOOL\24-3-2\opengl\openglLastTest06\main.cpp(160,15): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\openglLastTest06\main.cpp(161,15): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\openglLastTest06\main.cpp(251,15): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\openglLastTest06\main.cpp(252,15): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\openglLastTest06\main.cpp(392,92): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\openglLastTest06\main.cpp(392,74): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\openglLastTest06\main.cpp(393,108): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\openglLastTest06\main.cpp(393,84): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\openglLastTest06\main.cpp(394,137): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\openglLastTest06\main.cpp(394,107): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\openglLastTest06\main.cpp(395,107): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\openglLastTest06\main.cpp(395,83): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\openglLastTest06\main.cpp(418,43): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\openglLastTest06\main.cpp(418,28): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\openglLastTest06\main.cpp(421,47): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\openglLastTest06\main.cpp(421,30): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\openglLastTest06\main.cpp(424,49): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\openglLastTest06\main.cpp(424,30): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\openglLastTest06\main.cpp(427,45): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\openglLastTest06\main.cpp(427,28): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\openglLastTest06\main.cpp(508,21): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\openglLastTest06\main.cpp(524,21): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\openglLastTest06\main.cpp(535,21): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\openglLastTest06\main.cpp(626,23): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\openglLastTest06\main.cpp(676,39): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglLastTest06\main.cpp(676,44): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglLastTest06\main.cpp(681,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglLastTest06\main.cpp(686,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\openglLastTest06\main.cpp(834,21): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  openglLastTest06.vcxproj -> D:\SCHOOL\24-3-2\opengl\openglLastTest06\x64\Debug\openglLastTest06.exe
